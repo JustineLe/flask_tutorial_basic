@@ -1,0 +1,7 @@
+/venv
+/htmlcov
+/flaskr.egg-info
+/.pytest_cache
+.coverage
+.idea/
+__pycache__/
